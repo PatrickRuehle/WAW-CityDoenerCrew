@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+}
+
+.profil{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#inputEmail{
+  margin-top: 5px;
+  width: 300px;
+  height: 40px;
+  border-style: solid;
+  border-color: #8da6d6;
+  border-radius: 8px;
+  font: 13pt;
+  font-family: Brandon Grotesque Black;
+  color: grey;
+
+}
+
+#inputPassword{
+  margin-top: 5px;
+  width: 300px;
+  height: 40px;
+  border-style: solid;
+  border-color: #001a3a;
+  border-radius: 8px;
+  font-family: Roboto Thin;
+  font: 13px;
+  color: #001a3a;
+}
+
+#los{
+  margin-top: 20px;
+  width: 150px;
+  height: 40px;
+  border-style: none;
+  border-radius: 8px;
+  background-color: #001a3a;
+  font-family: Brandon Grotesque Black;
+  font: 13pt;
+  color: white;
+
+}
