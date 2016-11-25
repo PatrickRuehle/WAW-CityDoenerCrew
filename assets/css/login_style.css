@@ -20,6 +20,8 @@
 
 }
 
+
+
 #inputPassword{
   margin-top: 5px;
   width: 300px;
@@ -44,3 +46,22 @@
   color: white;
 
 }
+
+#Namen{
+  margin-top: 50px;
+  font-family: Brandon Grotesque Black;
+  font: 13pt;
+  color: #8da6d6;
+}
+
+#Info{
+  margin-top: 215px;
+  font: Roboto Thin;
+  font: 13px;
+  color: #8da6d6;
+}
+
+#Einloggen{
+  margin-top: 50px;
+  width: 60%;
+  }
